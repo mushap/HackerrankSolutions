@@ -36,15 +36,16 @@ namespace Algorithm
             }
             return 0;
         }
-        //public int migratoryBirds2(List<int> arr)
-        //{
-        //    if (arr.Any())
-        //    {
+        public int migratoryBirds2(List<int> arr)
+        {
+            if (arr.Any())
+            {
 
-        //        return arr.GroupBy(g => g).Select(s => new { Key = s.Key, Count = s.Count() }).OrderByDescending(o => o.Count).First().Key;
-        //    }
+                return arr.GroupBy(g => g).Select(s => new { Key = s.Key, Count = s.Count() }).OrderByDescending(o => o.Count).First().Key;
+            }
 
-        //    return 0;
-        //}
+            return 0;
+        }
+
     }
 }

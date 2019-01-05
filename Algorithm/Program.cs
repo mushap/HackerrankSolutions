@@ -11,12 +11,10 @@ namespace Algorithm
         static void Main(string[] args)
         {
 
-            // MigratoryBirds migratoryBirds = new MigratoryBirds();
-            // List<int> arr = new List<int>() {1,4,4,4,5,3};
-            //int val=  migratoryBirds.migratoryBirds(arr);
-            //Console.WriteLine(val);
-
-
+           // SockMerchant sockMerchant = new SockMerchant();
+           // int[] arr = new int[]{ 10, 20, 20, 10, 10, 30, 50, 10, 20 };
+           // int[] arr1 = new int[]{ 1, 1, 3, 1, 2, 1, 3, 3, 3, 3 };
+           //int abc = sockMerchant.sockMerchant(arr1.Count(),arr1);
 
             Console.ReadLine();
 
