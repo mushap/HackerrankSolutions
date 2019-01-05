@@ -47,6 +47,7 @@
     <Compile Include="BirthdayChocolate.cs" />
     <Compile Include="BreakingTheRecords.cs" />
     <Compile Include="CompareTheTriplets.cs" />
+    <Compile Include="CountingValleys.cs" />
     <Compile Include="DiagonalDifference.cs" />
     <Compile Include="GradingStudents.cs" />
     <Compile Include="Kangaroo.cs" />
